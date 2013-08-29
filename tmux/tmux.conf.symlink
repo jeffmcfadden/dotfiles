@@ -106,6 +106,7 @@ set-option -g renumber-windows on
 
 # starts windows at 1 not 0
 set-option -g base-index 1
+set-window-option -g pane-base-index 1
 
 set-option -g   visual-activity   on
 set-option -g   visual-content    on
